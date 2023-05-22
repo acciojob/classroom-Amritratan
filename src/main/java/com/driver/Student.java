@@ -20,4 +20,8 @@ public class Student {
         this.age = age;
         this.averageScore = averageScore;
     }
+
+    public String getName() {
+        return name;
+    }
 }

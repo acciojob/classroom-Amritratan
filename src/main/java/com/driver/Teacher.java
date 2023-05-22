@@ -22,4 +22,8 @@ public class Teacher {
         this.numberOfStudents = numberOfStudents;
         this.age = age;
     }
+
+    public String getName() {
+        return name;
+    }
 }
